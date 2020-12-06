@@ -644,7 +644,7 @@ session_start();
     <script>
 
 var slideIndex = 1;
-var server = 'http://localhost/Souvenir_bkt/souvenir_bkt/'
+var server = 'https://iisi-adityaailham-souvenir.herokuapp.com/souvenir_bkt/'
 //showDivs(slideIndex);
 
 function plusDivs(n) {
