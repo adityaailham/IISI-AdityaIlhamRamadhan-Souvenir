@@ -39,7 +39,7 @@ require("../connect.php");
 
 <script type="text/javascript">
 
-var server = "http://localhost/Souvenir_bkt/souvenir_bkt/";
+var server = "https://iisi-adityaailham-souvenir.herokuapp.com/souvenir_bkt/";
 var map;
 var markersDua = [];
 var koordinat = 'null'
